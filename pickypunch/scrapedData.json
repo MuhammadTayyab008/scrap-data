@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Smooth Peanut Butter, 500g. Smooth Peanut Butter, 500g. Smooth Peanut Butter, 500g.",
+    "price": "Rs.950",
+    "stock": 10,
+    "imageUrl": "https://pickypunch.pk///pickypunch.pk/cdn/shop/products/smooth.png?v=1664368326&width=1946",
+    "productUrl": "https://pickypunch.pk//products/smooth-peanut-butter"
+  },
+  {
+    "name": "Chocolate Peanut Butter, 500g. Chocolate Peanut Butter, 500g. Chocolate Peanut Butter, 500g.",
+    "price": "Rs.1,050",
+    "stock": 10,
+    "imageUrl": "https://pickypunch.pk///pickypunch.pk/cdn/shop/products/chcolate2.png?v=1664368329&width=1946",
+    "productUrl": "https://pickypunch.pk//products/peanutella-chocolate-peanut-butter"
+  },
+  {
+    "name": "Chunky Peanut Butter, 500g. Chunky Peanut Butter, 500g. Chunky Peanut Butter, 500g.",
+    "price": "Rs.950",
+    "stock": 10,
+    "imageUrl": "https://pickypunch.pk///pickypunch.pk/cdn/shop/products/chunky2.png?v=1664368336&width=1946",
+    "productUrl": "https://pickypunch.pk//products/picky-punch-chunky-peanut-butter"
+  },
+  {
+    "name": "Sugar Free Peanut Butter, 500g. Sugar Free Peanut Butter, 500g. Sugar Free Peanut Butter, 500g.",
+    "price": "Rs.950",
+    "stock": 10,
+    "imageUrl": "https://pickypunch.pk///pickypunch.pk/cdn/shop/products/sugarfree2.png?v=1664368321&width=1946",
+    "productUrl": "https://pickypunch.pk//products/sugar-free-peanut-butter"
+  },
+  {
+    "name": "Honey Peanut Butter, 500g. Honey Peanut Butter, 500g. Honey Peanut Butter, 500g.",
+    "price": "Rs.1,000",
+    "stock": 10,
+    "imageUrl": "https://pickypunch.pk///pickypunch.pk/cdn/shop/products/Artboard262.png?v=1664368332&width=1946",
+    "productUrl": "https://pickypunch.pk//products/natural-peanut-butter-honey"
+  }
+]
